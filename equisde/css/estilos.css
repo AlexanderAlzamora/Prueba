@@ -1,0 +1,70 @@
+#navegador{
+    background-color: #85D4B7;  
+    height: 100px;
+    width: 100%;
+}
+#foto{
+    padding-left: 100px;
+}
+
+#vegano{
+    background-color: #6dccaa;
+    padding: 50px 300px 50px 300px;
+    height: 800px;
+    width: 100%;
+   
+    
+}
+
+#tamaño{
+    height: 800px;
+    width: 100%;
+}
+#col1{
+    
+    background-color: aqua;
+    padding: 0;
+}
+#col2{
+   
+    background-color: blueviolet;
+    padding: 0;
+}
+#ajo{
+    padding-top: 5%;
+    padding-left: 250px;
+}
+#lorem1{
+    padding-right: 60px;
+    padding-top: 60px;
+}
+#lorem2{
+    padding-right: 60px;
+    padding-top: 50px;
+}
+#coach{
+    padding-left: 40%;
+    padding-top: 100px;
+}
+#crow{
+    padding-right: 40%;
+    padding-top: 50px;
+}
+#rojo{
+    padding-top: 70px;
+    padding-right: 300px;
+}
+#boton{
+    padding-top: 50px;
+    padding-right: 400px ;
+}
+#linea{
+    padding-left: 250px;
+}
+#cafe{
+    padding: 0px 500px 0px 500px;
+    background-color: #ffcf3f;
+    height: 500px;
+    width: 100%;
+    
+}
